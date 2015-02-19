@@ -1,0 +1,7 @@
+<core-drawer-panel>
+  <div drawer class="left-drawer"></div>
+  <core-drawer-panel main rightDrawer>
+	<div drawer class="right-drawer"></div>
+	<div main></div>
+  </core-drawer-panel>	
+</core-drawer-panel>
